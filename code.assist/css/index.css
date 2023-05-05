@@ -777,4 +777,23 @@ html
     border: 2px solid black;
     background-color: transparent;
 }
+ @media screen {
+    
+ }
+div.center  {
+    
+
+    
+
+
+    text-align: center;
+
+        display: block;
+        
+        margin-left: auto;
+        
+        margin-right: auto;
+        
+        }
+    
 
